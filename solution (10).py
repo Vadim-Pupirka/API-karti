@@ -71,7 +71,7 @@ while running:
                     perem = perem + 1
                     screen.blit(pygame.image.load(map_file), (0, 0))
                 if perem == 1:
-                    mod = 'skil'
+                    mod = 'sat,skl'
                     perem = perem + 1
                     screen.blit(pygame.image.load(map_file), (0, 0))
                 if perem == 2:
